@@ -1,0 +1,5 @@
+.eggs
+.idea
+dist
+*.egg-info
+keefind/__pycache__
